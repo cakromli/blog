@@ -8,5 +8,5 @@
   <Url type="application/atom+xml" template="https://cakromli.blogspot.com/search?q={searchTerms}&amp;feed=atom"/>
   <Url type="application/rss+xml" template="https://cakromli.blogspot.com/search?q={searchTerms}&amp;feed=rss2"/>
   <Url type="text/html" template="https://cakromli.blogspot.com/search?q={searchTerms}" method="GET" />
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://github.com/romlidotnet/script/blob/master/opensearch.xml" />
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://raw.githack.com/cakromli/blog/main/opensearch.xml" />
 </OpenSearchDescription>
